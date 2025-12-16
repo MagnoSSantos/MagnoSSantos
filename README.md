@@ -1,3 +1,13 @@
+## Python Data Portfolio
+
+Este repositório contém projetos práticos em Python focados em:
+- Análise e limpeza de dados
+- Automação de tarefas
+- Manipulação de arquivos CSV/Excel
+- Scripts aplicados a cenários reais de negócio
+
+Objetivo: demonstrar habilidades práticas em Python e Dados para oportunidades como Analista de Dados Júnior / Python Júnior.
+
 ## Olá, sou Magno Freitas dos Santos.
 
 ## Profissão Atual
